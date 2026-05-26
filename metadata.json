@@ -1,0 +1,6 @@
+{
+  "name": "Motor Balap Simulator & Tuning",
+  "description": "Simulasi balap motor interaktif, modifikasi (tuning) mesin mekanik, dan perencanaan strategi sirkuit dipandu Coach AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
